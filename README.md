@@ -55,7 +55,7 @@
 - aws 서버 배포
 
 ## ✨ ERD
-<img width="1025" alt="심봉사 ERD" src="https://github.com/code-hyun/simbongsa/assets/122762287/2b084aae-fb2a-4550-85ad-08a89ddaf375">
+<img width="1025" alt="심봉사 ERD" src="https://user-images.githubusercontent.com/129861299/245364140-cbb51717-abab-41da-a06a-33441ce51d8f.png">
 
 ## ✨ 프로젝트에서 느낀점
 #### ✨어려웠던 부분 <br>
