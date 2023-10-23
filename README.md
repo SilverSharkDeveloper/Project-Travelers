@@ -62,14 +62,70 @@
  4. 여행기 상세보기 <br>
  5. 공지사항<br>
 
+## 실제 화면
+ <details >
+  <summary style="font-size: 100 px;">화면 구성</summary>
+
+![001](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/9e5994d0-c4ea-4899-955e-8a8880475815)
+![002](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/22552d1f-2743-4367-a653-5bbc9b978993)
+![003](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/266fb8bd-62fd-4c68-84ff-92d6cb743ec6)
+![004](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/8b7de0a8-f096-4350-96bc-71cf0adad001)
+![005](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/073679fa-0ca1-458c-a736-54daa79b65a9)
+![006](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/0f5a9d1d-3ee4-48a8-ac3f-f65ee0ee4db9)
+![007](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/7977e04c-98bb-4d7f-b878-826691410a51)
+![008](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/22bca710-2ac1-4587-8da4-4196ec58df03)
+![009](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/519724e2-d1e2-42ac-bdd7-a149a9e17258)
+![010](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/a53a4426-6077-4714-b8cd-02a233ed9d35)
+![011](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/f87f3b23-312e-48c8-a649-e3ec97fead18)
+![012](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/de4afb60-1cda-4224-9f1a-230d2409a635)
+![013](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/b4ee8565-2fa0-4e86-95be-6bc50cc7b0a3)
+![014](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/55b2723a-2e01-4a2c-b502-68dc29b26ab4)
+![015](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/aafedb1e-824a-4697-a6e4-9552467d4bb9)
+![016](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/31e56fe4-91d7-404c-ba43-d32927d36f36)
+![017](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/82206267-5d69-4288-a91f-0284cf2c7277)
+![018](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/ee96c52c-af81-49a5-b775-98e05a4e3589)
+![019](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/f222cbdc-6ff2-491d-9677-b8708b9ad826)
+![020](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/dd4144a6-d929-4712-aca1-f4e5113f6f33)
+![021](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/e32ef043-e7ac-4d49-a382-c562b1ebcf4f)
+![022](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/03b28d85-f37c-41bc-9a12-67d3561f1394)
+![023](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/31bea7a2-cd8c-4072-a0f4-e030ec5f2b9f)
+![024](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/5388b976-ea5f-4908-9965-df39264d4a5c)
+![025](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/f83402db-7524-40a0-8ee2-f40fc096f5f2)
+![026](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/aec03cf6-4b78-43c2-be81-41d7104e0262)
+
+ 
+</details>
+
+
 ### 백엔드 작업(관리자 페이지,공지사항) 
  1. 회원 관리 (목록, 상세보기, 검색, 삭제) <br>
  2. 여행기 관리 (목록, 상세보기/수정, 검색, 삭제)<br>
  3. 공지사항 관리 (목록, 상세보기/수정, 검색, 삭제)<br>
 
+## 백엔드 flow-chart
+ <details >
+  <summary style="font-size: 100 px;">flow-chart</summary>
+  
+  ![001](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/76069cd2-6824-441d-a8fe-9a44cd55c181)
+  ![002](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/dbd54fc6-8916-4204-9b31-6272606c7773)
+  ![003](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/a5f949e6-625a-49e9-976f-831a578e4f0b)
+  ![004](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/66659309-aaeb-4104-a9e9-ea244eb1443b)
+  ![005](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/116e37ca-e3c8-4de4-9c78-cd4472337a22)
+  ![006](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/5ac13693-bfc0-4d73-8254-cfd2ddd2f272)
+  ![007](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/526dec00-0064-4ad6-b457-942d6738ed12)
+  ![008](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/a35b6825-b8e1-4a93-8da5-9dec0a45451a)
+  ![009](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/7715de16-7a0b-4458-a626-3c08f7790dff)
+  ![010](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/63581421-47b2-4018-878a-78232d117571)
+  ![011](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/66616c9d-d2f1-4983-96e4-cad6d7c8582a)
+  ![012](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/26f11655-bfe5-4dec-9e11-2eae602cf7af)
+  ![013](https://github.com/SilverSharkDeveloper/Project-Travelers/assets/129861299/4aa749f8-d410-449a-9e1a-544128a34049)
+  
+
+ </details>
 
 ## ✨ 페이지흐름도
 <img width="1025"  src="https://user-images.githubusercontent.com/129861299/245446873-1d3bb899-adce-438f-b192-28646762be35.png">
+
 
 
 
